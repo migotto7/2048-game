@@ -1,0 +1,30 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+}
+
+.grid div{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(134, 134, 134);
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    border: 10px flex;
+}
+
+.score-container .score-title{
+    font-size: 25px
+}
+
+.score-container #score{
+    font-size: 25px
+}
+
+.creator {
+    font-size: 25px;
+}
